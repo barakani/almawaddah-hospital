@@ -2,4 +2,4 @@ User-Agent: *
 Allow: /
 Disallow: /private/
 
-Sitemap: https://almawaddahhospital.com.ye/sitemap.xml
+Sitemap: https://almawaddahhospital.com/sitemap.xml
